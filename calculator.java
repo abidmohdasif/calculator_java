@@ -1,8 +1,8 @@
 /**
- * Calculator — Phase 1
- *
+ * Calculator 
  * A simple arithmetic calculator with input validation.
- * All methods are stateless; create one instance and reuse it freely.
+ * Abid Asif
+ * 4/9/26
  */
 public class Calculator {
 
